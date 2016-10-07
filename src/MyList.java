@@ -7,7 +7,7 @@
  * to the same file, it is not intended to evaluate your ability to write a data structure.
  */
 public class MyList {
-
+///This is my change. hahahhahahahahahahah!!!!!!!!!!!!!!!!!
   String[] array;
 
   public MyList() {
