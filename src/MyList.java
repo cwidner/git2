@@ -7,6 +7,7 @@
  * to the same file, it is not intended to evaluate your ability to write a data structure.
  */
 public class MyList {
+<<<<<<< HEAD
 	
 	private class Node {
 		private String data;
@@ -14,6 +15,10 @@ public class MyList {
 	}
 
   private Node head;
+=======
+///This is my change. hahahhahahahahahahah!!!!!!!!!!!!!!!!!
+  String[] array;
+>>>>>>> fa082dfb6b12dffe6201cca656f8b507bd75f0d8
 
   public MyList() {
     this.head = null;
